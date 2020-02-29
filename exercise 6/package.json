@@ -1,0 +1,15 @@
+{
+    "name": "sap-scraper",
+    "version": "1.0.0",
+    "description": "Scrap SAP website index page and replace each occurence string SAP into Odoo",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Pierre-Yves Crutzen",
+    "license": "MIT",
+    "dependencies": {
+        "website-scraper": "4.0.0",
+        "website-scraper-phantom": "1.0.0"
+    }
+}
